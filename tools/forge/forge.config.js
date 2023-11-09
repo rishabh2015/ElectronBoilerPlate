@@ -10,7 +10,7 @@ module.exports = {
     // Set executable name
     executableName: 'ER Naukri',
     // Set application copyright
-    appCopyright: 'Copyright (C) 2021 Codesbiome, Rishabh2015',
+    appCopyright: 'Copyright (C) 2021, Rishabh2015',
     // Set application icon
     icon: path.resolve('assets/images/appIcon.ico'),
   },
